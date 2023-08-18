@@ -252,3 +252,13 @@ li a:hover:not(.active) {
 hr {
   max-width: 900px;
 }
+
+.drivelink {
+  all: unset;
+  color:#03c75a;
+  text-decoration: underline;
+}
+
+.drivelink:hover {
+  color: white;
+}
